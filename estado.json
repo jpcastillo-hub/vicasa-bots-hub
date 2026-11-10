@@ -1,0 +1,18 @@
+{
+  "ultima_reunion_procesada": "2026-11-09T16:45:00-06:00",
+  "ultimo_read_ai_id": "01M70R43BEK07WZS85K0HKDFQ0",
+  "pendientes_sin_minuta": [
+    {
+      "id": "01M70R43BEK07WZS85K0HKDFQ0",
+      "titulo": "Departamental Mercadeo y Ventas",
+      "fecha": "2026-11-09T12:11:00-06:00",
+      "motivo": "Grabación móvil en Read AI sin resumen, transcripción ni action items (end_time vacío). Tampoco llegó informe de Circleback."
+    },
+    {
+      "id": "01M6P35751N75NT1MY9B8RHMFR",
+      "titulo": "Seguimientos Walmart–Vicasa",
+      "fecha": "2026-11-05T08:52:00-06:00",
+      "motivo": "La llamada está en Read AI, pero no generó resumen ni pendientes. Cristian Lima y Max Sosa (Walmart) no se conectaron."
+    }
+  ]
+}
