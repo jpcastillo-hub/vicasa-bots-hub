@@ -19,7 +19,7 @@ Octubre cerró cerca del AOP, con un sobregasto de 1% explicado sobre todo por T
 
 ## Acuerdos y pendientes
 - Juan Miguel Castillo · Pedirle a su hermano que arranque el Maestro 2026 y la proyección 2027. Sin fecha.
-- Wilmer Ramírez · Actualizar la OP con el precio del canal moderno (CBC) para revisarla el 10 nov 2026.
+- Wilmer Ramírez · Actualizar la OP con el precio del canal moderno (CBC) para revisarla el 10 nov 2026. Vencido, sin confirmación posterior.
 - Wilmer Ramírez · Agendar con Tulsios la visita para las actas del Consejo, avisando primero a Carol el estimado de ~10 días de transcripción. Sin fecha.
 - Wilmer Ramírez · Corregir el forecast de noviembre y diciembre (gasto no deducible, servicios técnicos por la sustitución de Héctor y Q168 mil de Turcios). Sin fecha.
 

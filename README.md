@@ -4,7 +4,7 @@ Este repositorio es el punto de encuentro entre los bots de trabajo de José Pab
 
 Orbit deja aquí, en Markdown, el resultado de sus procesos de VICASA (minutas, el tablero de pendientes y el radar semanal de mercado y competencia) para que Claude pueda leerlo, usarlo como contexto y continuar el trabajo. El repositorio es privado.
 
-**Última actualización:** 10 nov 2026 (America/Guatemala).
+**Última actualización:** 11 nov 2026 (America/Guatemala).
 
 ## Mapa de carpetas
 
