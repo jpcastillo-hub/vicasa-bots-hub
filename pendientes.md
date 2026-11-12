@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **11 nov 2026**, zona America/Guatemala.
+Corte: **12 nov 2026**, zona America/Guatemala.
 
-Total: **72** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **18** vencidos · **45** abiertos · **9** hechos.
+Total: **77** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **18** vencidos · **50** abiertos · **9** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -51,11 +51,16 @@ Las minutas de origen están en [`minutas/`](minutas/).
 
 | Pendiente | Responsable | Fecha límite | Reunión | Fecha reunión | Estado |
 | --- | --- | --- | --- | --- | --- |
+| Enviar la convocatoria para la revisión de las 16:30 del formato de pedido | Juan Miguel Castillo | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
+| Adaptar el formato recibido con el inventario disponible y preparar la propuesta de cantidades por agencia | Juan Miguel Castillo | 12 nov 2026 (revisión 16:30) | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
+| Modificar y compartir el formato consolidado con ventas, inventarios y agencias | María Fernanda Mus Yupe (CBC) | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
+| Dejar la orden de compra en el sistema, a más tardar el día siguiente | María Fernanda Mus Yupe (CBC) | 13 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Revisar el cierre de noviembre y evaluar un alcance parcial del incentivo el primer día de diciembre | Jesús Herrera y el equipo | 1 dic 2026 | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar la capacidad de estante para 2027 en julio o agosto, antes de que comience la temporada | El equipo | Jul–ago 2027 | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Alinear la cifra de logro con la meta práctica antes de la presentación con César | Juan Miguel Castillo | Antes de presentación con César | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Agendar con Tulsios la visita para revisar las actas del Consejo, avisando primero a Carol el estimado de unos diez días para terminar la transcripción | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Agregar el caso de Bodega China de Xela por la falta de cajas de Castellana rosada (100 solicitadas, 80 disponibles) | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
+| Ajustar el pedido a 7.618 cajas según las cantidades sugeridas, sin aplicar medias tarimas de forma general | María Fernanda Mus Yupe (CBC) | Sin fecha | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Apoyar la distribución del inventario disponible en el centro de distribución, priorizando tiendas Walmart (incl. Walmart Roosevelt) | Cristian Lima | Sin fecha | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Compartir el contacto de Sergio cuando lo reciba | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Compartir el detalle de las cajas consignadas | Jesús Herrera | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
