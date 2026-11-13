@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **12 nov 2026**, zona America/Guatemala.
+Corte: **13 nov 2026**, zona America/Guatemala.
 
-Total: **88** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **18** vencidos · **59** abiertos · **11** hechos.
+Total: **88** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **20** vencidos · **57** abiertos · **11** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -46,13 +46,13 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Completar el trabajo de migración durante esa semana | Por definir | 8 nov 2026 | Migración web y dominio | 4 nov 2026 | Vencido |
 | Completar el último llenado de productos básicos | Cristian Lima | 9 nov 2026 | Surtido Walmart–Vicasa | 4 nov 2026 | Vencido |
 | Actualizar la OP con el precio del canal moderno (CBC: precio conocido × 0.8) para revisarla en la departamental de conta | Wilmer Ramírez | 10 nov 2026 | Departamental Administración | 9 nov 2026 | Vencido |
+| Actualizar la tabla de pedido a Villanueva con las cantidades de la orden de compra final (Reyes Tinto, Castellana y Sangría cambiaron) y enviársela a Mafer / Ana | Juan Miguel Castillo | 12 nov 2026 («en un ratito») | Revisión Pedido Vicasa | 12 nov 2026 | Vencido |
+| Modificar y compartir el formato consolidado con ventas, inventarios y agencias | María Fernanda Mus Yupe (CBC) | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Vencido |
 
 ## Resto abiertos
 
 | Pendiente | Responsable | Fecha límite | Reunión | Fecha reunión | Estado |
 | --- | --- | --- | --- | --- | --- |
-| Actualizar la tabla de pedido a Villanueva con las cantidades de la orden de compra final (Reyes Tinto, Castellana y Sangría cambiaron) y enviársela a Mafer / Ana | Juan Miguel Castillo | 12 nov 2026 («en un ratito») | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
-| Modificar y compartir el formato consolidado con ventas, inventarios y agencias | María Fernanda Mus Yupe (CBC) | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Dejar la orden de compra en el sistema, a más tardar el día siguiente | María Fernanda Mus Yupe (CBC) | 13 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Revisar el cierre de noviembre y evaluar un alcance parcial del incentivo el primer día de diciembre | Jesús Herrera y el equipo | 1 dic 2026 | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar la capacidad de estante para 2027 en julio o agosto, antes de que comience la temporada | El equipo | Jul–ago 2027 | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
