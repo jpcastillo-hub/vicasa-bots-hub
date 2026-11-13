@@ -2,7 +2,7 @@
 
 Corte: **12 nov 2026**, zona America/Guatemala.
 
-Total: **77** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **18** vencidos · **50** abiertos · **9** hechos.
+Total: **88** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **18** vencidos · **59** abiertos · **11** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -51,13 +51,13 @@ Las minutas de origen están en [`minutas/`](minutas/).
 
 | Pendiente | Responsable | Fecha límite | Reunión | Fecha reunión | Estado |
 | --- | --- | --- | --- | --- | --- |
-| Enviar la convocatoria para la revisión de las 16:30 del formato de pedido | Juan Miguel Castillo | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
-| Adaptar el formato recibido con el inventario disponible y preparar la propuesta de cantidades por agencia | Juan Miguel Castillo | 12 nov 2026 (revisión 16:30) | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
+| Actualizar la tabla de pedido a Villanueva con las cantidades de la orden de compra final (Reyes Tinto, Castellana y Sangría cambiaron) y enviársela a Mafer / Ana | Juan Miguel Castillo | 12 nov 2026 («en un ratito») | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Modificar y compartir el formato consolidado con ventas, inventarios y agencias | María Fernanda Mus Yupe (CBC) | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Dejar la orden de compra en el sistema, a más tardar el día siguiente | María Fernanda Mus Yupe (CBC) | 13 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
 | Revisar el cierre de noviembre y evaluar un alcance parcial del incentivo el primer día de diciembre | Jesús Herrera y el equipo | 1 dic 2026 | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar la capacidad de estante para 2027 en julio o agosto, antes de que comience la temporada | El equipo | Jul–ago 2027 | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Alinear la cifra de logro con la meta práctica antes de la presentación con César | Juan Miguel Castillo | Antes de presentación con César | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
+| Actualizar la distribución de tarimas | Por definir | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Agendar con Tulsios la visita para revisar las actas del Consejo, avisando primero a Carol el estimado de unos diez días para terminar la transcripción | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Agregar el caso de Bodega China de Xela por la falta de cajas de Castellana rosada (100 solicitadas, 80 disponibles) | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Ajustar el pedido a 7.618 cajas según las cantidades sugeridas, sin aplicar medias tarimas de forma general | María Fernanda Mus Yupe (CBC) | Sin fecha | LOGÍSTICA-VICASA | 12 nov 2026 | Abierto |
@@ -66,6 +66,7 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Compartir el detalle de las cajas consignadas | Jesús Herrera | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Compartir el reporte de visibilidad de las tiendas | Otto Orellana | Sin fecha | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Comprobar en campo cómo se aplicó el sueldazo en octubre, si condicionó otros pagos, y revisar su situación para noviembre | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
+| Confirmar con Hilda las cajas realmente facturadas de Reyes Tinto, Castellana y Sangría y verificar con Vale las refacturaciones antes de confirmar cantidades | Otto Orellana | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Confirmar con Miguel si el pedido pendiente ya puede despacharse | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Consultar cómo obtener visibilidad de los productos consignados | Por definir | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Coordinar con Suseli una reunión para revisar la descarga de ventas diarias de GTA y las diferencias con las ventas mensuales actuales | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
@@ -78,25 +79,33 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Gestionar el acceso de José Pablo a los repositorios de Singular (para trabajar con MCP) y avisarle cuando esté habilitado | Andrés Rebuly Pineda | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
 | Guardar la versión actualizada de los pendientes | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Hablar con Jesús sobre la falta de respuesta a sus llamadas y mensajes | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
+| Hablar con la responsable después de las jornadas para revisar las diferencias pendientes (puestos y bonificaciones) | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Implementar la descarga de ventas diarias de GTA después de revisar con Suseli la guía y las diferencias con las ventas mensuales | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
 | Incluir en la minuta una captura de pantalla del uso de la herramienta, con los filtros por región, departamento y municipio | Isabel | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Informar a Allan si se logra facturar el inventario | Leonel Morales | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Informar a Tom sobre los puntos tratados y facilitar la reunión con el proveedor | Cristian Lima | Sin fecha | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Llamar a Philly para aclarar qué ocurrió con el pedido de Distribuidora Génesis y coordinar cómo resolverlo | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
+| Llevar el producto a la próxima reunión | Juan Miguel Castillo | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Mantener por correo la comunicación sobre los casos específicos e incorporar a Sebastián para apoyar las validaciones | Juan Miguel Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
+| Modificar los datos de Castellana y Sangría según los cambios de la orden | Otto Orellana | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
+| Monitorear a diario los inventarios de las agencias y gestionar los traslados de tarimas completas | Sebastian Morales | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Pedirle a su hermano que arranque el Maestro 2026 y la proyección 2027, paso previo para el plan de VIGUA y la OP | Juan Miguel Castillo | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Poner a Sebastián en contacto con el caso de Distribuidora Génesis para validar las entregas pendientes | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
+| Proponer a los socios comerciales una oferta de Castellana | El equipo | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Reforzar con los supervisores y vendedores el uso de la herramienta de búsqueda de clientes | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Revisar con Allan los pendientes y priorizar las negociaciones de Shela que aún no se concretaron | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar con José Pablo el estado de los muebles y las mantas | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Revisar el esquema de Sueldazo | Jesús Herrera | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar el proceso actual de extracción de GTA y determinar si necesita orientación de Sucely sobre los reportes diarios | Andrés Pinto | Sin fecha | Vicasa–Singular Touchpoint | 5 nov 2026 | Abierto |
+| Revisar los datos de consumo por día para evaluar el calendario de degustaciones | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Revisar los espacios de las tiendas y los casos sin ventas | Cristian Lima | Sin fecha | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Solicitar a Jesús apoyo para mejorar la visibilidad del inventario consignado | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
+| Solicitar el inventario actualizado por agencia después de las distribuciones para preparar el archivo autorizado | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Validar en campo la promoción Sueldazo de Cabal y confirmar si fue llave en octubre | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Validar las cantidades de afiches de Presidente y solicitar fotografías de su ejecución en campo | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Validar que el cliente tenga el producto | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Verificar en campo que los equipos de tradicional y mayoreo conozcan las nuevas reglas de sueldazo | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
+| Volver a correr la proyección manteniendo los montos indicados | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 
 ## Hechos
 
@@ -111,3 +120,5 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Informar al equipo cuando Mafer responda | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Hecho |
 | Enviar la invitación para la sesión de seguimiento del martes con Singular | José Pablo Castillo | 10 nov 2026 | Vicasa–Singular Touchpoint | 5 nov 2026 | Hecho |
 | Coordinar una sesión interna para mapear los esfuerzos de implementación y presentar la propuesta al equipo la semana siguiente | Andrés Rebuly Pineda | Semana del 9–13 nov 2026 | Vicasa–Singular Touchpoint | 5 nov 2026 | Hecho |
+| Enviar la convocatoria para la revisión de las 16:30 del formato de pedido (la revisión se hizo el 12 nov) | Juan Miguel Castillo | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Hecho |
+| Adaptar el formato recibido con el inventario disponible y preparar la propuesta de cantidades por agencia (presentada en la Revisión Pedido Vicasa del 12 nov) | Juan Miguel Castillo | 12 nov 2026 (revisión 16:30) | LOGÍSTICA-VICASA | 12 nov 2026 | Hecho |

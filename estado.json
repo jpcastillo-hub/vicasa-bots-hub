@@ -1,12 +1,12 @@
 {
-  "ultima_reunion_procesada": "2026-11-12T11:50:00-06:00",
-  "ultimo_read_ai_id": "01M78AYBAVRNXWB06KMTG1750D",
+  "ultima_reunion_procesada": "2026-11-12T17:18:00-06:00",
+  "ultimo_read_ai_id": "01M78XFXZJYAPMAY8R45EGCS2B",
   "pendientes_sin_minuta": [
     {
-      "id": "01M70R43BEK07WZS85K0HKDFQ0",
-      "titulo": "Departamental Mercadeo y Ventas",
-      "fecha": "2026-11-09T12:11:00-06:00",
-      "motivo": "Grabación móvil en Read AI sin resumen, transcripción ni action items (end_time vacío). Tampoco llegó informe de Circleback.",
+      "id": "01M78VJ44PFGE83VDNCB5M41M6",
+      "titulo": "AOP Comercial 2027",
+      "fecha": "2026-11-12T15:45:00-06:00",
+      "motivo": "Grabación móvil en Read AI sin hora de cierre, resumen ni action items. Tampoco llegó informe de Read AI ni de Circleback.",
       "ultima_revision": "2026-11-12"
     },
     {
