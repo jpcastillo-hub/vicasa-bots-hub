@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **16 nov 2026**, zona America/Guatemala.
+Corte: **17 nov 2026**, zona America/Guatemala.
 
-Total: **91** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **21** vencidos · **59** abiertos · **11** hechos.
+Total: **103** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **20** vencidos · **69** abiertos · **14** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -38,7 +38,6 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Dar respuesta a la solicitud de crédito de Marcamas | Jesús Herrera (CBC) | 31 oct 2026 | Weekly Comercial CBC-VICASA | 27 oct 2026 | Vencido |
 | Enviar nota a Dani sobre el crédito de Bodega Central (bajó de Q400 mil a Q200 mil); la solicitud debe venir del JR | Jesús Herrera | 31 oct 2026 | Reunión logística CBC–VICASA | 29 oct 2026 | Vencido |
 | Hacer la minuta del sueldazo con copia a Bencomo | Jesús Herrera | 31 oct 2026 | Reunión logística CBC–VICASA | 29 oct 2026 | Vencido |
-| Incluir el inventario consignado en Power BI (~1,200 cajas) | Jesús Herrera (CBC) | 31 oct 2026 | Weekly Comercial CBC-VICASA | 27 oct 2026 | Vencido |
 | Resolver la factura pendiente de Distribuidora M&L | Jesús Herrera (CBC) | 31 oct 2026 | Weekly Comercial CBC-VICASA | 27 oct 2026 | Vencido |
 | Enviar el PIN de WordPress (acordado para cinco minutos después, durante la reunión) | Gonzalo | 4 nov 2026 | Migración web y dominio | 4 nov 2026 | Vencido |
 | Reenviar / enviar la última orden de compra | Cristian Lima | 4 nov 2026 | Surtido Walmart–Vicasa | 4 nov 2026 | Vencido |
@@ -68,7 +67,6 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Comprobar en campo cómo se aplicó el sueldazo en octubre, si condicionó otros pagos, y revisar su situación para noviembre | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Confirmar con Hilda las cajas realmente facturadas de Reyes Tinto, Castellana y Sangría y verificar con Vale las refacturaciones antes de confirmar cantidades | Otto Orellana | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Confirmar con Miguel si el pedido pendiente ya puede despacharse | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
-| Consultar cómo obtener visibilidad de los productos consignados | Por definir | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Coordinar con Suseli una reunión para revisar la descarga de ventas diarias de GTA y las diferencias con las ventas mensuales actuales | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
 | Corregir el forecast de noviembre y diciembre: quitar el gasto no deducible proyectado por error, ajustar servicios técnicos por la sustitución de Héctor y sacar los Q168 mil de Turcios en diciembre | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Dar seguimiento a las negociaciones comerciales para confirmar que los pedidos pendientes se despachen | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
@@ -99,7 +97,6 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Revisar el proceso actual de extracción de GTA y determinar si necesita orientación de Sucely sobre los reportes diarios | Andrés Pinto | Sin fecha | Vicasa–Singular Touchpoint | 5 nov 2026 | Abierto |
 | Revisar los datos de consumo por día para evaluar el calendario de degustaciones | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Revisar los espacios de las tiendas y los casos sin ventas | Cristian Lima | Sin fecha | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
-| Solicitar a Jesús apoyo para mejorar la visibilidad del inventario consignado | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Solicitar el inventario actualizado por agencia después de las distribuciones para preparar el archivo autorizado | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
 | Validar en campo la promoción Sueldazo de Cabal y confirmar si fue llave en octubre | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Validar las cantidades de afiches de Presidente y solicitar fotografías de su ejecución en campo | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
@@ -109,6 +106,18 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Invitar a las negociaciones nuevas a quien lo pidió, para detallar lo que viene y actualizar las cifras comerciales del AOP 2027 | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
 | Priorizar el análisis de CBC y preparar una presentación con mayor detalle para compartirla después | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
 | Elaborar el resto del análisis del AOP 2027 con las cifras revisadas | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
+| Revisar con Mafer y empujar la orden de compra del pedido de la semana (tarimas completas a una agencia); Juan Miguel pide que salga a más tardar el jueves | Jesús Herrera (CBC) / Juan Miguel Castillo | 19 nov 2026 (a más tardar el jueves) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Cruzar el listado de supermercados independientes y clientes OMT de VICASA con los códigos CBC y llevarlo a la RAP | Jesús Herrera y equipo CBC | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Recordar a los JDR, durante la RAP, que atiendan y ofrezcan el portafolio a los supermercados independientes y clientes OMT | Jesús Herrera y Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Reenviar el listado de supermercados independientes y clientes OMT (Circleback indica que Otto ya lo mandó por correo y que Jesús se lo reenvía a Sebastián) | Allan Cheves (según Read AI) | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Mandar el correo para iniciar la producción de los afiches de Farolazo | Otto Orellana (según Circleback; Read AI lo asigna a Juan Miguel Castillo) | 17 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Pedirle a Dani el inventario actualizado de material Wells, para confirmar que Wells se termine antes de distribuir Farolazo | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Presentar en la RAP la distribución de los 30 muebles por agencia (primero a los JR que los pidieron, luego por potencial) y cómo se dará seguimiento a la instalación | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Instalar los 30 muebles (10 por marca) y reunir las 30 fotos de ejecución | Sebastian Morales | 27 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Armar el documento con el motivo de no compra de cada cliente top del Crece y Gana y sacar conclusiones con los JR | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Visitar a los clientes principales del listado para conocer directamente sus necesidades | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Revisar con Yaiza el acceso a la reportería de VICASA (el usuario de Juan Miguel ve data de otros países en el Command Center); Jesús ya escaló el caso | Jesús Herrera (CBC) | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Revisar con Sebastián el número pendiente | Juan Miguel Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 
 ## Hechos
 
@@ -125,3 +134,6 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Coordinar una sesión interna para mapear los esfuerzos de implementación y presentar la propuesta al equipo la semana siguiente | Andrés Rebuly Pineda | Semana del 9–13 nov 2026 | Vicasa–Singular Touchpoint | 5 nov 2026 | Hecho |
 | Enviar la convocatoria para la revisión de las 16:30 del formato de pedido (la revisión se hizo el 12 nov) | Juan Miguel Castillo | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Hecho |
 | Adaptar el formato recibido con el inventario disponible y preparar la propuesta de cantidades por agencia (presentada en la Revisión Pedido Vicasa del 12 nov) | Juan Miguel Castillo | 12 nov 2026 (revisión 16:30) | LOGÍSTICA-VICASA | 12 nov 2026 | Hecho |
+| Consultar cómo obtener visibilidad de los productos consignados (hecho: el dash de CBC ya tiene pestaña de consignaciones, 1,473.4 cajas; Weekly 17 nov) | Por definir | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Hecho |
+| Solicitar a Jesús apoyo para mejorar la visibilidad del inventario consignado (hecho: el dash de CBC ya tiene pestaña de consignaciones, 1,473.4 cajas; Weekly 17 nov) | Otto Orellana | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Hecho |
+| Incluir el inventario consignado en Power BI (~1,200 cajas) (hecho: el dash de CBC ya tiene pestaña de consignaciones, 1,473.4 cajas; Weekly 17 nov) | Jesús Herrera (CBC) | 31 oct 2026 | Weekly Comercial CBC-VICASA | 27 oct 2026 | Hecho |
