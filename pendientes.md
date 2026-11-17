@@ -2,7 +2,7 @@
 
 Corte: **16 nov 2026**, zona America/Guatemala.
 
-Total: **88** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **21** vencidos · **56** abiertos · **11** hechos.
+Total: **91** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **21** vencidos · **59** abiertos · **11** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -106,6 +106,9 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Validar que el cliente tenga el producto | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
 | Verificar en campo que los equipos de tradicional y mayoreo conozcan las nuevas reglas de sueldazo | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 3 nov 2026 | Abierto |
 | Volver a correr la proyección manteniendo los montos indicados | Por definir | Sin fecha | Departamental Mercadeo y Ventas | 9 nov 2026 | Abierto |
+| Invitar a las negociaciones nuevas a quien lo pidió, para detallar lo que viene y actualizar las cifras comerciales del AOP 2027 | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
+| Priorizar el análisis de CBC y preparar una presentación con mayor detalle para compartirla después | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
+| Elaborar el resto del análisis del AOP 2027 con las cifras revisadas | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
 
 ## Hechos
 
