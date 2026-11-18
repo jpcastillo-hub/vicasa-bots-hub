@@ -21,14 +21,14 @@ Revisión comercial semanal con CBC. Noviembre lleva unas 5.000 cajas y octubre 
 
 ## Acuerdos y pendientes
 - **Jesús Herrera (CBC) / Juan Miguel Castillo** · Revisar con Mafer y empujar la orden de compra del pedido de la semana (tarimas completas a una agencia); Juan Miguel pide que salga a más tardar el jueves. 19 nov 2026 (a más tardar el jueves).
-- **Jesús Herrera y equipo CBC** · Cruzar el listado de supermercados independientes y clientes OMT de VICASA con los códigos CBC y llevarlo a la RAP. 17 nov 2026 (RAP de la tarde).
-- **Jesús Herrera y Sebastian Morales** · Recordar a los JDR, durante la RAP, que atiendan y ofrezcan el portafolio a los supermercados independientes y clientes OMT. 17 nov 2026 (RAP de la tarde).
+- **Jesús Herrera y equipo CBC** · Cruzar el listado de supermercados independientes y clientes OMT de VICASA con los códigos CBC y llevarlo a la RAP. 17 nov 2026 (RAP de la tarde). Vencido, sin confirmación posterior.
+- **Jesús Herrera y Sebastian Morales** · Recordar a los JDR, durante la RAP, que atiendan y ofrezcan el portafolio a los supermercados independientes y clientes OMT. 17 nov 2026 (RAP de la tarde). Vencido, sin confirmación posterior.
 - **Allan Cheves (según Read AI)** · Reenviar el listado de supermercados independientes y clientes OMT (Circleback indica que Otto ya lo mandó por correo y que Jesús se lo reenvía a Sebastián). Sin fecha.
-- **Otto Orellana (según Circleback; Read AI lo asigna a Juan Miguel Castillo)** · Mandar el correo para iniciar la producción de los afiches de Farolazo. 17 nov 2026.
+- **Otto Orellana (según Circleback; Read AI lo asigna a Juan Miguel Castillo)** · Mandar el correo para iniciar la producción de los afiches de Farolazo. 17 nov 2026. Vencido, sin confirmación posterior.
 - **Sebastian Morales** · Pedirle a Dani el inventario actualizado de material Wells, para confirmar que Wells se termine antes de distribuir Farolazo. Sin fecha.
-- **Sebastian Morales** · Presentar en la RAP la distribución de los 30 muebles por agencia (primero a los JR que los pidieron, luego por potencial) y cómo se dará seguimiento a la instalación. 17 nov 2026 (RAP de la tarde).
+- **Sebastian Morales** · Presentar en la RAP la distribución de los 30 muebles por agencia (primero a los JR que los pidieron, luego por potencial) y cómo se dará seguimiento a la instalación. 17 nov 2026 (RAP de la tarde). Vencido, sin confirmación posterior.
 - **Sebastian Morales** · Instalar los 30 muebles (10 por marca) y reunir las 30 fotos de ejecución. 27 nov 2026.
-- **Sebastian Morales** · Armar el documento con el motivo de no compra de cada cliente top del Crece y Gana y sacar conclusiones con los JR. 17 nov 2026 (RAP de la tarde).
+- **Sebastian Morales** · Armar el documento con el motivo de no compra de cada cliente top del Crece y Gana y sacar conclusiones con los JR. 17 nov 2026 (RAP de la tarde). Vencido, sin confirmación posterior.
 - **Sebastian Morales** · Visitar a los clientes principales del listado para conocer directamente sus necesidades. Sin fecha.
 - **Jesús Herrera (CBC)** · Revisar con Yaiza el acceso a la reportería de VICASA (el usuario de Juan Miguel ve data de otros países en el Command Center); Jesús ya escaló el caso. Sin fecha.
 - **Juan Miguel Castillo** · Revisar con Sebastián el número pendiente. Sin fecha.

@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **17 nov 2026**, zona America/Guatemala.
+Corte: **18 nov 2026**, zona America/Guatemala.
 
-Total: **103** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **20** vencidos · **69** abiertos · **14** hechos.
+Total: **103** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **25** vencidos · **64** abiertos · **14** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -48,6 +48,11 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Actualizar la tabla de pedido a Villanueva con las cantidades de la orden de compra final (Reyes Tinto, Castellana y Sangría cambiaron) y enviársela a Mafer / Ana | Juan Miguel Castillo | 12 nov 2026 («en un ratito») | Revisión Pedido Vicasa | 12 nov 2026 | Vencido |
 | Modificar y compartir el formato consolidado con ventas, inventarios y agencias | María Fernanda Mus Yupe (CBC) | 12 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Vencido |
 | Dejar la orden de compra en el sistema, a más tardar el día siguiente | María Fernanda Mus Yupe (CBC) | 13 nov 2026 | LOGÍSTICA-VICASA | 12 nov 2026 | Vencido |
+| Cruzar el listado de supermercados independientes y clientes OMT de VICASA con los códigos CBC y llevarlo a la RAP | Jesús Herrera y equipo CBC | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Vencido |
+| Recordar a los JDR, durante la RAP, que atiendan y ofrezcan el portafolio a los supermercados independientes y clientes OMT | Jesús Herrera y Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Vencido |
+| Mandar el correo para iniciar la producción de los afiches de Farolazo | Otto Orellana (según Circleback; Read AI lo asigna a Juan Miguel Castillo) | 17 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Vencido |
+| Presentar en la RAP la distribución de los 30 muebles por agencia (primero a los JR que los pidieron, luego por potencial) y cómo se dará seguimiento a la instalación | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Vencido |
+| Armar el documento con el motivo de no compra de cada cliente top del Crece y Gana y sacar conclusiones con los JR | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Vencido |
 
 ## Resto abiertos
 
@@ -107,14 +112,9 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Priorizar el análisis de CBC y preparar una presentación con mayor detalle para compartirla después | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
 | Elaborar el resto del análisis del AOP 2027 con las cifras revisadas | Por definir (Read AI no identificó al hablante) | Sin fecha | AOP Comercial 2027 | 12 nov 2026 | Abierto |
 | Revisar con Mafer y empujar la orden de compra del pedido de la semana (tarimas completas a una agencia); Juan Miguel pide que salga a más tardar el jueves | Jesús Herrera (CBC) / Juan Miguel Castillo | 19 nov 2026 (a más tardar el jueves) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
-| Cruzar el listado de supermercados independientes y clientes OMT de VICASA con los códigos CBC y llevarlo a la RAP | Jesús Herrera y equipo CBC | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
-| Recordar a los JDR, durante la RAP, que atiendan y ofrezcan el portafolio a los supermercados independientes y clientes OMT | Jesús Herrera y Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Reenviar el listado de supermercados independientes y clientes OMT (Circleback indica que Otto ya lo mandó por correo y que Jesús se lo reenvía a Sebastián) | Allan Cheves (según Read AI) | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
-| Mandar el correo para iniciar la producción de los afiches de Farolazo | Otto Orellana (según Circleback; Read AI lo asigna a Juan Miguel Castillo) | 17 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Pedirle a Dani el inventario actualizado de material Wells, para confirmar que Wells se termine antes de distribuir Farolazo | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
-| Presentar en la RAP la distribución de los 30 muebles por agencia (primero a los JR que los pidieron, luego por potencial) y cómo se dará seguimiento a la instalación | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Instalar los 30 muebles (10 por marca) y reunir las 30 fotos de ejecución | Sebastian Morales | 27 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
-| Armar el documento con el motivo de no compra de cada cliente top del Crece y Gana y sacar conclusiones con los JR | Sebastian Morales | 17 nov 2026 (RAP de la tarde) | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Visitar a los clientes principales del listado para conocer directamente sus necesidades | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar con Yaiza el acceso a la reportería de VICASA (el usuario de Juan Miguel ve data de otros países en el Command Center); Jesús ya escaló el caso | Jesús Herrera (CBC) | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar con Sebastián el número pendiente | Juan Miguel Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
