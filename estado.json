@@ -1,35 +1,35 @@
 {
-  "ultima_reunion_procesada": "2026-11-17T09:56:00-06:00",
-  "ultimo_read_ai_id": "01M7N3J4H160K7AXJEBZ52X1PW",
-  "ultima_fuente_procesada": "Read AI 01M7N3J4H160K7AXJEBZ52X1PW + Circleback · Weekly Comercial CBC-VICASA 17 nov 2026 (correo 1a1ea6467c2b91af)",
+  "ultima_reunion_procesada": "2026-11-19T09:50:00-06:00",
+  "ultimo_read_ai_id": "01M7T81592XAGWH9BTGP0FCNM7",
+  "ultima_fuente_procesada": "Read AI 01M7T81592XAGWH9BTGP0FCNM7 + Circleback · Revisión AOP 19 nov 2026 (correo 1a1f4bc83e009532)",
   "pendientes_sin_minuta": [
     {
       "id": "01M6P35751N75NT1MY9B8RHMFR",
       "titulo": "Seguimientos Walmart–Vicasa",
       "fecha": "2026-11-05T08:52:00-06:00",
       "motivo": "La llamada está en Read AI, pero no generó resumen ni pendientes. Cristian Lima y Max Sosa (Walmart) no se conectaron.",
-      "ultima_revision": "2026-11-18"
+      "ultima_revision": "2026-11-19"
     },
     {
       "id": null,
       "titulo": "Comité de Producción y Compras",
       "fecha": "2026-11-16T14:00:00-06:00",
       "motivo": "En calendario; al 18 nov 13:20 no hay grabación en Read AI ni informe en Gmail. No consta si se celebró.",
-      "ultima_revision": "2026-11-18"
+      "ultima_revision": "2026-11-19"
     },
     {
       "id": null,
       "titulo": "Comité Mercadeo",
       "fecha": "2026-11-16T14:00:00-06:00",
       "motivo": "En calendario (hubo Pre-Read de Read AI); al 18 nov 13:20 no hay grabación en Read AI ni informe en Gmail. No consta si se celebró.",
-      "ultima_revision": "2026-11-18"
+      "ultima_revision": "2026-11-19"
     },
     {
       "id": "01M7QQ9JA7EG98DGF4QF5J10P8",
       "titulo": "Surtido Walmart–Vicasa",
       "fecha": "2026-11-18T10:19:00-06:00",
       "motivo": "Read AI grabó la llamada (10:19–10:34) pero sin participantes, transcripción ni resumen; no hay informe en Gmail al 18 nov 13:20.",
-      "ultima_revision": "2026-11-18"
+      "ultima_revision": "2026-11-19"
     }
   ]
 }

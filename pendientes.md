@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **18 nov 2026**, zona America/Guatemala.
+Corte: **19 nov 2026**, zona America/Guatemala.
 
-Total: **103** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **25** vencidos · **64** abiertos · **14** hechos.
+Total: **108** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **25** vencidos · **69** abiertos · **14** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -61,6 +61,9 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Revisar el cierre de noviembre y evaluar un alcance parcial del incentivo el primer día de diciembre | Jesús Herrera y el equipo | 1 dic 2026 | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar la capacidad de estante para 2027 en julio o agosto, antes de que comience la temporada | El equipo | Jul–ago 2027 | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
 | Alinear la cifra de logro con la meta práctica antes de la presentación con César | Juan Miguel Castillo | Antes de presentación con César | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
+| Enviar la convocatoria de 4:00 a 5:00 p. m. para revisar el AOP (ajuste por categoría y canal) con Wilmer | Otto Orellana | 19 nov 2026 (hoy) | Revisión AOP | 19 nov 2026 | Abierto |
+| Ajustar y pulir el crecimiento por categoría para el AOP y el maestro (porcentajes, jarabes y exportación), revisándolo con Wilmer | Otto Orellana | 19 nov 2026 (hoy) | Revisión AOP | 19 nov 2026 | Abierto |
+| Escribirle a Tomás (Walmart) con la pantalla del resurtido e inventario, explicar los Days On Hand (próximos 60 días de venta) y pedir reunión urgente esta tarde | Otto Orellana | 19 nov 2026 (hoy) | Revisión AOP | 19 nov 2026 | Abierto |
 | Actualizar la distribución de tarimas | Por definir | Sin fecha | Revisión Pedido Vicasa | 12 nov 2026 | Abierto |
 | Agendar con Tulsios la visita para revisar las actas del Consejo, avisando primero a Carol el estimado de unos diez días para terminar la transcripción | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Agregar el caso de Bodega China de Xela por la falta de cajas de Castellana rosada (100 solicitadas, 80 disponibles) | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 27 oct 2026 | Abierto |
@@ -118,6 +121,8 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Visitar a los clientes principales del listado para conocer directamente sus necesidades | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar con Yaiza el acceso a la reportería de VICASA (el usuario de Juan Miguel ve data de otros países en el Command Center); Jesús ya escaló el caso | Jesús Herrera (CBC) | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar con Sebastián el número pendiente | Juan Miguel Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
+| Revisar las proyecciones de cada cliente, incluido el crecimiento de OMT cliente por cliente, y mostrarlo | Otto Orellana | Sin fecha | Revisión AOP | 19 nov 2026 | Abierto |
+| Mover en el Excel las ventas de exportaciones un mes atrás para que nada quede en diciembre | Otto Orellana | Sin fecha | Revisión AOP | 19 nov 2026 | Abierto |
 
 ## Hechos
 
