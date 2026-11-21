@@ -30,6 +30,13 @@
       "fecha": "2026-11-18T10:19:00-06:00",
       "motivo": "Read AI grabó la llamada (10:19–10:34) pero sin participantes, transcripción ni resumen; no hay informe en Gmail al 18 nov 13:20.",
       "ultima_revision": "2026-11-20"
+    },
+    {
+      "id": "01M7XBMRNJ5D6KV7WSQR57KBWM",
+      "titulo": "VICASA - Revisión (Singular Agency)",
+      "fecha": "2026-11-20T14:51:00-06:00",
+      "motivo": "Read AI grabó la llamada (14:51–15:09, organiza Andrés Rebuly de Singular); José no se conectó. Al 20 nov 18:25 sin resumen, pendientes ni transcripción, y sin informe en Gmail.",
+      "ultima_revision": "2026-11-20"
     }
   ]
 }
