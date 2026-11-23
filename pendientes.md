@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **20 nov 2026**, zona America/Guatemala.
+Corte: **23 nov 2026**, zona America/Guatemala.
 
-Total: **108** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **29** vencidos · **65** abiertos · **14** hechos.
+Total: **119** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **29** vencidos · **76** abiertos · **14** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -123,6 +123,17 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Revisar con Sebastián el número pendiente | Juan Miguel Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar las proyecciones de cada cliente, incluido el crecimiento de OMT cliente por cliente, y mostrarlo | Otto Orellana | Sin fecha | Revisión AOP | 19 nov 2026 | Abierto |
 | Mover en el Excel las ventas de exportaciones un mes atrás para que nada quede en diciembre | Otto Orellana | Sin fecha | Revisión AOP | 19 nov 2026 | Abierto |
+| Decirle al cliente de Gitana que despache en noviembre o el producto se vende a otro lado (la exclusividad tiene condiciones que no está cumpliendo) | Otto Orellana | Sin fecha (despacho en noviembre) | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Pasar a Carlos la data de Unisuper y de la supercarga, y sentarse con él a aclarar cuánto volumen falta según lo ya ingresado en el ODU | Otto Orellana | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Corregir el pedido S24522 de CBC (es Castellana, no sangría): revisarlo con Dono y dar seguimiento a Mafer (CBC) para que cambien descripción y código en sus órdenes de compra | Otto Orellana | Sin fecha (el pedido se despachaba el 23 nov) | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Etiquetar las 20 cajas pendientes con las etiquetas Marsala | Silvia Barrios | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Programar producción: Parrillero 100–150 cajas (mínimo 50, ~10 días), Ninot Black 400 cajas, medio galón blanco 50–100 cajas y Vivaldi rosé 300 cajas | Silvia Barrios | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Mantener informado al equipo sobre los corchos y su posible impacto en los despachos de CBC | Silvia Barrios | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Coordinar una reunión entre Silvia y el contacto de Argentina (productos que empiezan a inflarse) | Carol Orellana | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Validar por qué las refacturaciones de CBC (7,052 cajas, 6 facturas) suman a la meta en el ODU, si la meta va sobre pedidos | Carlos López (según Read AI; Circleback sin asignar) | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Actualizar Walmart y Unisuper en el plan de llenados/tablero y mostrar en una sola tabla lo que falta por pedir de todos los clientes | Carlos López (según Read AI; Circleback sin asignar) | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Volver a reunirse a las 2:00 p. m. con los mismos asistentes para aclarar el plan de producción y ventas | Juan Miguel Castillo (convoca) / equipo | 23 nov 2026 (14:00) | Comité de Producción y Compras | 23 nov 2026 | Abierto |
+| Confirmar cuántas cajas faltaban en el cálculo de producción | Por definir | Sin fecha | Comité de Producción y Compras | 23 nov 2026 | Abierto |
 
 ## Hechos
 
