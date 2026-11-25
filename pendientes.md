@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **24 nov 2026**, zona America/Guatemala.
+Corte: **25 nov 2026**, zona America/Guatemala.
 
-Total: **123** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **30** vencidos · **79** abiertos · **14** hechos.
+Total: **123** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **31** vencidos · **78** abiertos · **14** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -58,12 +58,12 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Ajustar y pulir el crecimiento por categoría para el AOP y el maestro (porcentajes, jarabes y exportación), revisándolo con Wilmer | Otto Orellana | 19 nov 2026 | Revisión AOP | 19 nov 2026 | Vencido |
 | Escribirle a Tomás (Walmart) con la pantalla del resurtido e inventario, explicar los Days On Hand (próximos 60 días de venta) y pedir reunión urgente esta tarde | Otto Orellana | 19 nov 2026 | Revisión AOP | 19 nov 2026 | Vencido |
 | Volver a reunirse a las 2:00 p. m. con los mismos asistentes para aclarar el plan de producción y ventas | Juan Miguel Castillo (convoca) / equipo | 23 nov 2026 (14:00) | Comité de Producción y Compras | 23 nov 2026 | Vencido |
+| Volver a presionar a las gerencias para que salgan rápido los traslados pendientes | Sebastian Morales | 24 nov 2026 (al salir de la reunión) | Weekly Comercial CBC-VICASA | 24 nov 2026 | Vencido |
 
 ## Resto abiertos
 
 | Pendiente | Responsable | Fecha límite | Reunión | Fecha reunión | Estado |
 | --- | --- | --- | --- | --- | --- |
-| Volver a presionar a las gerencias para que salgan rápido los traslados pendientes | Sebastian Morales | 24 nov 2026 (al salir de la reunión) | Weekly Comercial CBC-VICASA | 24 nov 2026 | Abierto |
 | Instalar los 30 muebles (10 por marca) y reunir las 30 fotos de ejecución | Sebastian Morales | 27 nov 2026 | Weekly Comercial CBC-VICASA | 17 nov 2026 | Abierto |
 | Revisar el cierre de noviembre y evaluar un alcance parcial del incentivo el primer día de diciembre | Jesús Herrera y el equipo | 1 dic 2026 | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Revisar la capacidad de estante para 2027 en julio o agosto, antes de que comience la temporada | El equipo | Jul–ago 2027 | Surtido Walmart–Vicasa | 4 nov 2026 | Abierto |
