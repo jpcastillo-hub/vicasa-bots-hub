@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **26 nov 2026**, zona America/Guatemala.
+Corte: **27 nov 2026**, zona America/Guatemala.
 
-Total: **126** pendientes · **10** de José (incluye compartidos con Otto y Allan) · **31** vencidos · **80** abiertos · **15** hechos.
+Total: **128** pendientes · **10** de José (incluye compartidos con Otto y Allan) · **31** vencidos · **82** abiertos · **15** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -140,6 +140,8 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Preguntar a JF qué pasa con el volumen restante de unas 900 cajas que ya tiene facturación | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 24 nov 2026 | Abierto |
 | Revisar el scraper de Unisuper para identificar por qué reporta inventarios incorrectos e intermitentes | Andrés Pinto | Sin fecha | Vicasa – Revisión (Singular) | 26 nov 2026 | Abierto |
 | Mapear el trabajo adicional (datos de GTA en dashboard y agente de Capsule) en Singular y dejar las historias listas para revisión y aprobación | Andrés Rebuly Pineda | Sin fecha | Vicasa – Revisión (Singular) | 26 nov 2026 | Abierto |
+| Reactivar hoy los 6 ítems inactivos de Vicasa como temporales 03 (para comprarlos martes o miércoles) y copiar a Tomás | Elvira Velasquez (Walmart) | 27 nov 2026 | Reunión VICASA–Walmart | 27 nov 2026 | Abierto |
+| Reenviar a Elvira el correo de solicitud de activación de los ítems y el último correo de Christian pidiéndole a Max que los active | Otto Orellana | Sin fecha | Reunión VICASA–Walmart | 27 nov 2026 | Abierto |
 
 ## Hechos
 
