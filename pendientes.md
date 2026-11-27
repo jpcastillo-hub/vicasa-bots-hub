@@ -1,8 +1,8 @@
 # Pendientes VICASA
 
-Corte: **25 nov 2026**, zona America/Guatemala.
+Corte: **26 nov 2026**, zona America/Guatemala.
 
-Total: **123** pendientes · **9** de José (incluye compartidos con Otto y Allan) · **31** vencidos · **78** abiertos · **14** hechos.
+Total: **126** pendientes · **10** de José (incluye compartidos con Otto y Allan) · **31** vencidos · **80** abiertos · **15** hechos.
 
 Un pendiente se marca Hecho solo si una reunión o un correo posterior lo confirma. Los responsables y las fechas salen de las fuentes; si no constaban, queda «Por definir» o «Sin fecha».
 
@@ -23,6 +23,7 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Enviar una foto de los muebles al grupo | José Pablo Castillo | Sin fecha | Weekly Comercial CBC-VICASA | 9 nov 2026 | Abierto |
 | Entregar el archivo completo del diseño | José Pablo Castillo | Sin fecha | Migración web y dominio | 4 nov 2026 | Abierto |
 | Escalar con su JR y con Jesús si las ~600 cajas consignadas del mayorista de Xela cuentan para el TIU | Otto Orellana / JP / Allan | Sin fecha | Reunión logística CBC–VICASA | 29 oct 2026 | Abierto |
+| Revisar con el equipo el alcance de la visualización de los datos de GTA en el dashboard y su disponibilidad para el agente de Capsule, y confirmar los requisitos | José Pablo Castillo | Sin fecha | Vicasa – Revisión (Singular) | 26 nov 2026 | Abierto |
 
 ## Vencidos
 
@@ -87,7 +88,6 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Agendar con Tulsios la visita para revisar las actas del Consejo, avisando primero a Carol el estimado de unos diez días para terminar la transcripción | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Corregir el forecast de noviembre y diciembre: quitar el gasto no deducible proyectado por error, ajustar servicios técnicos por la sustitución de Héctor y sacar los Q168 mil de Turcios en diciembre | Wilmer Ramírez | Sin fecha | Departamental Administración | 9 nov 2026 | Abierto |
 | Coordinar con Suseli una reunión para revisar la descarga de ventas diarias de GTA y las diferencias con las ventas mensuales actuales | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
-| Implementar la descarga de ventas diarias de GTA después de revisar con Suseli la guía y las diferencias con las ventas mensuales | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
 | Gestionar el acceso de José Pablo a los repositorios de Singular (para trabajar con MCP) y avisarle cuando esté habilitado | Andrés Rebuly Pineda | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Abierto |
 | Revisar el proceso actual de extracción de GTA y determinar si necesita orientación de Sucely sobre los reportes diarios | Andrés Pinto | Sin fecha | Vicasa–Singular Touchpoint | 5 nov 2026 | Abierto |
 | Enviar la información de accesos de WordPress, Squarespace y correos asociados para continuar la migración | Por definir | Sin fecha | Migración web y dominio | 4 nov 2026 | Abierto |
@@ -138,11 +138,14 @@ Las minutas de origen están en [`minutas/`](minutas/).
 | Mandar a Sebastián el teléfono de Bodega Central | Allan Cheves | Sin fecha | Weekly Comercial CBC-VICASA | 24 nov 2026 | Abierto |
 | Llamar a Bodega Central (top 3 de Xela, ~4,500 cajas) para destrabar el crédito con la consigna a 30 días, cuando Allan le pase el número | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 24 nov 2026 | Abierto |
 | Preguntar a JF qué pasa con el volumen restante de unas 900 cajas que ya tiene facturación | Sebastian Morales | Sin fecha | Weekly Comercial CBC-VICASA | 24 nov 2026 | Abierto |
+| Revisar el scraper de Unisuper para identificar por qué reporta inventarios incorrectos e intermitentes | Andrés Pinto | Sin fecha | Vicasa – Revisión (Singular) | 26 nov 2026 | Abierto |
+| Mapear el trabajo adicional (datos de GTA en dashboard y agente de Capsule) en Singular y dejar las historias listas para revisión y aprobación | Andrés Rebuly Pineda | Sin fecha | Vicasa – Revisión (Singular) | 26 nov 2026 | Abierto |
 
 ## Hechos
 
 | Pendiente | Responsable | Fecha límite | Reunión | Fecha reunión | Estado |
 | --- | --- | --- | --- | --- | --- |
+| Implementar la descarga de ventas diarias de GTA después de revisar con Suseli la guía y las diferencias con las ventas mensuales (hecho: el bot de GTA ya corrió automáticamente; Revisión Singular 26 nov) | Andrés Pinto | Sin fecha | Vicasa – Touchpoint (Singular) | 10 nov 2026 | Hecho |
 | Preparar el sugerido de noviembre–diciembre con inventario por agencia, indicando cuánto va a órdenes de compra y cuánto al hub | Otto Orellana / JP / Allan | 2 nov 2026 | Reunión logística CBC–VICASA | 29 oct 2026 | Hecho |
 | Enviar la invitación para la sesión de seguimiento del martes con Singular | José Pablo Castillo | 10 nov 2026 | Vicasa–Singular Touchpoint | 5 nov 2026 | Hecho |
 | Llevar el jueves una propuesta de inventario en una agencia principal por región | Juan Miguel Castillo y el equipo comercial | 29 oct 2026 | Weekly Comercial CBC-VICASA | 27 oct 2026 | Hecho |
